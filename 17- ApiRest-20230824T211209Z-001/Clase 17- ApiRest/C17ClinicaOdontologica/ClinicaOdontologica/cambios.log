@@ -1,0 +1,13 @@
+[2023-08-17 00:21:59] [ INFO ] [PacienteDAOH2:174] inicio de operacion de buscado por email:evo@dh.com
+[2023-08-17 00:30:09] [ INFO ] [PacienteDAOH2:174] inicio de operacion de buscado por email:evo@dh.com
+[2023-08-17 00:30:09] [ INFO ] [DomicilioDAOH2:51] inicio de operacion de buscado por id: 2
+[2023-08-21 21:39:52] [ INFO ] [PacienteDAOH2:24] inicio de operacion de guardado
+[2023-08-21 21:48:15] [ INFO ] [PacienteDAOH2:24] inicio de operacion de guardado
+[2023-08-21 21:48:15] [ INFO ] [DomicilioDAOH2:20] inicio de operacion de guardado de un domicilio null
+[2023-08-21 21:56:30] [ INFO ] [PacienteDAOH2:24] inicio de operacion de guardado : jorgito
+[2023-08-21 21:56:30] [ INFO ] [DomicilioDAOH2:20] inicio de operacion de guardado de un domicilio null
+[2023-08-21 22:04:36] [ INFO ] [PacienteDAOH2:24] inicio de operacion de guardado : jorgito
+[2023-08-21 22:04:36] [ INFO ] [DomicilioDAOH2:20] inicio de operacion de guardado de un domicilio null
+[2023-08-21 22:10:07] [ INFO ] [PacienteDAOH2:24] inicio de operacion de guardado : jorgito
+[2023-08-21 22:10:07] [ INFO ] [PacienteDAOH2:29] domicilio a guardar : null
+[2023-08-21 22:10:07] [ INFO ] [DomicilioDAOH2:20] inicio de operacion de guardado de un domicilio null

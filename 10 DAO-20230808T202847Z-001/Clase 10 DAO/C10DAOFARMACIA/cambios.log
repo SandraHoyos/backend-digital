@@ -1,0 +1,40 @@
+[2023-08-08 00:34:11] [ INFO ] [BD:17] inicio de operaciones de creado de tablas
+[2023-08-08 00:34:12] [ INFO ] [MedicamentoService:16] llamo al idao medicamentos para darle el objeto a guardar
+[2023-08-08 00:34:12] [ INFO ] [MedicamentosDAOH2:18] inicio de las operaciones de guardado
+[2023-08-08 00:41:59] [ INFO ] [BD:17] inicio de operaciones de creado de tablas
+[2023-08-08 00:42:00] [ INFO ] [Medicamento:23] creo el objeto
+[2023-08-08 00:42:00] [ INFO ] [MedicamentoService:16] llamo al idao medicamentos para darle el objeto a guardar
+[2023-08-08 00:42:00] [ INFO ] [MedicamentosDAOH2:18] inicio de las operaciones de guardado
+[2023-08-08 00:43:08] [ INFO ] [BD:17] inicio de operaciones de creado de tablas
+[2023-08-08 00:43:09] [ INFO ] [Medicamento:23] creo el objeto
+[2023-08-08 00:43:09] [ INFO ] [MedicamentoService:16] llamo al idao medicamentos para darle el objeto a guardar
+[2023-08-08 00:43:09] [ INFO ] [MedicamentosDAOH2:18] inicio de las operaciones de guardado
+[2023-08-08 00:43:10] [ INFO ] [MedicamentosDAOH2:35] datos enviados a la BDD
+[2023-08-08 00:45:35] [ INFO ] [BD:17] inicio de operaciones de creado de tablas
+[2023-08-08 00:45:37] [ INFO ] [Medicamento:23] creo el objeto
+[2023-08-08 00:45:37] [ INFO ] [MedicamentoService:16] llamo al idao medicamentos para darle el objeto a guardar
+[2023-08-08 00:45:37] [ INFO ] [MedicamentosDAOH2:18] inicio de las operaciones de guardado
+[2023-08-08 00:45:37] [ INFO ] [MedicamentosDAOH2:35] datos enviados a la BDD
+[2023-08-08 01:03:14] [ INFO ] [BD:17] inicio de operaciones de creado de tablas
+[2023-08-08 01:03:16] [ INFO ] [Medicamento:23] creo el objeto
+[2023-08-08 01:03:16] [ INFO ] [MedicamentoService:16] llamo al idao medicamentos para darle el objeto a guardar
+[2023-08-08 01:03:16] [ INFO ] [MedicamentosDAOH2:20] inicio de las operaciones de guardado
+[2023-08-08 01:03:16] [ INFO ] [MedicamentosDAOH2:37] datos enviados a la BDD
+[2023-08-08 01:03:16] [ INFO ] [MedicamentosDAOH2:53] iniciando la busqueda por ID
+[2023-08-08 01:03:16] [ INFO ] [MedicamentosDAOH2:59] seteo valores
+[2023-08-08 01:05:15] [ INFO ] [BD:17] inicio de operaciones de creado de tablas
+[2023-08-08 01:05:17] [ INFO ] [Medicamento:23] creo el objeto
+[2023-08-08 01:05:17] [ INFO ] [Medicamento:23] creo el objeto
+[2023-08-08 01:05:17] [ INFO ] [MedicamentoService:16] llamo al idao medicamentos para darle el objeto a guardar
+[2023-08-08 01:05:17] [ INFO ] [MedicamentosDAOH2:20] inicio de las operaciones de guardado
+[2023-08-08 01:05:17] [ INFO ] [MedicamentosDAOH2:37] datos enviados a la BDD
+[2023-08-08 01:05:17] [ INFO ] [MedicamentosDAOH2:53] iniciando la busqueda por ID
+[2023-08-08 01:05:17] [ INFO ] [MedicamentosDAOH2:59] seteo valores
+[2023-08-08 01:05:55] [ INFO ] [BD:17] inicio de operaciones de creado de tablas
+[2023-08-08 01:05:57] [ INFO ] [Medicamento:23] creo el objeto
+[2023-08-08 01:05:57] [ INFO ] [Medicamento:23] creo el objeto
+[2023-08-08 01:05:57] [ INFO ] [MedicamentoService:16] llamo al idao medicamentos para darle el objeto a guardar
+[2023-08-08 01:05:57] [ INFO ] [MedicamentosDAOH2:20] inicio de las operaciones de guardado
+[2023-08-08 01:05:57] [ INFO ] [MedicamentosDAOH2:37] datos enviados a la BDD
+[2023-08-08 01:05:57] [ INFO ] [MedicamentosDAOH2:53] iniciando la busqueda por ID
+[2023-08-08 01:05:58] [ INFO ] [MedicamentosDAOH2:59] seteo valores

@@ -1,0 +1,15 @@
+[2023-08-02 21:44:10] [ INFO ] [App:16] La lista tiene elementos: 6
+[2023-08-02 21:44:10] [ INFO ] [App:16] La lista tiene elementos: 7
+[2023-08-02 21:44:10] [ INFO ] [App:16] La lista tiene elementos: 8
+[2023-08-02 21:44:10] [ INFO ] [App:16] La lista tiene elementos: 9
+[2023-08-02 21:44:10] [ INFO ] [App:16] La lista tiene elementos: 10
+[2023-08-02 21:45:05] [ WARN ] [App:16] La lista tiene elementos: 6
+[2023-08-02 21:45:05] [ WARN ] [App:16] La lista tiene elementos: 7
+[2023-08-02 21:45:05] [ WARN ] [App:16] La lista tiene elementos: 8
+[2023-08-02 21:45:05] [ WARN ] [App:16] La lista tiene elementos: 9
+[2023-08-02 21:45:05] [ WARN ] [App:16] La lista tiene elementos: 10
+[2023-08-02 21:45:33] [ ERROR] [App:16] La lista tiene elementos: 6
+[2023-08-02 21:45:33] [ ERROR] [App:16] La lista tiene elementos: 7
+[2023-08-02 21:45:33] [ ERROR] [App:16] La lista tiene elementos: 8
+[2023-08-02 21:45:33] [ ERROR] [App:16] La lista tiene elementos: 9
+[2023-08-02 21:45:33] [ ERROR] [App:16] La lista tiene elementos: 10

@@ -1,0 +1,7 @@
+[2023-05-25 21:26:31] [ INFO ] [OdontologoDaoH2:80] Listado de todos los odontólogos: [
+ ID 1 --- Odontólogo Stavros,Max, Matrícula: 987654., 
+ ID 2 --- Odontólogo Sabani,Diego, Matrícula: 179104., 
+ ID 3 --- Odontólogo Sevilla,Paola, Matrícula: 202305.,
+ ID 4 --- Odontólogo Solsire,Maria, Matrícula: 216652.]
+[2023-05-25 21:27:20] [ INFO ] [OdontologoDaoH2:37] Odontólogo registrado: 
+ ID 5 --- Odontólogo Solsire,Maria, Matrícula: 216652.
